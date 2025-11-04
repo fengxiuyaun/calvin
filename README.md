@@ -168,6 +168,13 @@ Open-source models that outperform the MCIL baselines from CALVIN:
 
 For a detailed overview of the evaluation performances, have a look at our **[LEADERBOARD](http://calvin.cs.uni-freiburg.de/)**.
 
+<b> RoboTron-Mani: All-in-One Multimodal Large Model for Robotic Manipulation </b>
+<br>
+Feng Yan, Fanfan Liu, Yiyang Huang, Zechao Guan, Liming Zheng, Yufeng Zhong, Chengjian Feng, Lin Ma
+<br>
+<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Yan_RoboTron-Mani_All-in-One_Multimodal_Large_Model_for_Robotic_Manipulation_ICCV_2025_paper.pdf"> ICCV 2025 Paper</a>, <a href="[https://github.com/liufanfanlff/RoboUniview](https://github.com/EmbodiedAI-RoboTron/RoboTron-Mani)"> Code </a>
+
+
 <br>
 <b> Grounding Language with Visual Affordances over Unstructured Data</b>
 <br>
